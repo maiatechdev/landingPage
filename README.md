@@ -1,2 +1,2 @@
 # landingPage
- um site responsivo para marketing
+ Landing Page simples de 1 página
